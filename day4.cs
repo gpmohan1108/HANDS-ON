@@ -208,6 +208,66 @@ namespace Demo
                 }
             }
             Console.Write("\n\nThe sum : {0} \n", su);
+                                 
+ //13
+[9:04 AM, 8/22/2022] Karthiga: /* int n;
+Console.WriteLine("enter the inuput");
+n = Convert.ToInt32(Console.ReadLine());
+switch(n==0)
+{
+    case true:
+        Console.WriteLine("given inuput is zero");
+        break;
+    case false:
+        if (n % 2 == 0)
+        {
+            Console.WriteLine("given input is even");
         }
+        else
+        {
+            Console.WriteLine("given input is odd");
+        }
+        break;
+}
+//15
+for (int i = 1, j = 25; i <= j; i++, j--)
+{
+   Console.WriteLine("i ={0} and j = {1}", i, j);
+}
+Console.WriteLine("Crossed Over");  
+//14
+int score = 100;
+string input;
+Console.WriteLine("enter the given input hit or miss");
+for(int i=0;i<=3;i++)
+{
+    input = Console.ReadLine();
+    if (input=="hit")
+    {   
+        score += 10;
+    }
+    else if(input=="miss")
+    {
+        score -= 20;
+    }
+}
+Console.WriteLine(score); 
+        }
+        //16
+        string first_name;
+string last_name;
+Console.WriteLine(  "enter the first name");
+first_name = Console.ReadLine();
+Console.WriteLine("enter the last name");
+last_name = Console.ReadLine();
+if(first_name=="userid" && last_name=="password")
+{
+    Console.WriteLine("user has succesfully login in");
+    Console.WriteLine("welcome to my app");
+}
+else
+{
+    Console.WriteLine("incorrect first_name and password");
+}
     }
 }
