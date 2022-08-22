@@ -1,0 +1,187 @@
+ using System;
+class problems
+{
+    static void Main(string[] args)
+    {
+        //swap to numbers
+        int a = 5, b = 6;
+        Console.WriteLine("Before swap a= " + a + " b= " + b);
+        a = a * b;
+        b = a / b;
+        a = a / b;
+        Console.Write("After swap a= " + a + " b= " + b);
+
+        //multiply 3 number
+
+        int num1, num2, num3;
+        Console.Write("\n2.multiply 3 number\n");
+        Console.Write("first number : ");
+        num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("second number: ");
+        num2 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("third number: ");
+        num3 = Convert.ToInt32(Console.ReadLine());
+
+        int result = num1 * num2 * num3;
+        Console.WriteLine("Output: {0} x {1} x {2} = {3}",
+                            num1, num2, num3, result);
+
+        //add,sub,mul,dvd of 2 numbers
+
+        Console.Write("\n3.add,sub,mul,divide of two number\n");
+        Console.Write("Enter a number: ");
+        int no1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Enter another number: ");
+        int no2 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("{0} + {1} = {2}", no1, no2, no1 + no2);
+        Console.WriteLine("{0} - {1} = {2}", no1, no2, no1 - no2);
+        Console.WriteLine("{0} x {1} = {2}", no1, no2, no1 * no2);
+        Console.WriteLine("{0} / {1} = {2}", no1, no2, no1 / no2);
+        Console.WriteLine("{0} mod {1} = {2}", no1, no2, no1 % no2);
+
+        //4.average
+
+        Console.WriteLine("\n4.print the average\n" +
+            "");
+        double number1, number2, number3, number4;
+
+        Console.Write("Enter the First number: ");
+        number1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter the Second number: ");
+        number2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter the third number: ");
+        number3 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter the fourth number: ");
+        number4 = Convert.ToDouble(Console.ReadLine());
+
+        double res = (number1 + number2 + number3 + number4) / 4;
+        Console.WriteLine("The average of {0}, {1}, {2}, {3} is: {4} ",
+     number1, number2, number3, number4, result);
+
+        //5.x+y problem
+
+        Console.WriteLine("\n5.x+y problem\n");
+        int n1 = 5, n2 = 6, n3 = 7;
+
+
+        Console.Write("Result of specified numbers {0}\n, {1}\n and {2}\n, (x+y)·z is {3}\n and x·y + y·z is {4}\n\n",
+            n1, n2, n3, ((n1 + n2) * n3), (n1 * 2 + n2 * n3));
+
+
+        //6.print age message
+        int age;
+        Console.WriteLine("\n6.print age message\n");
+        Console.Write("Enter your age: ");
+        age = Convert.ToInt32(Console.ReadLine());
+        Console.Write("You look older than {0}\n", age);
+
+        //7.print with space and no space
+        Console.WriteLine("\n7.print number with space and without space in four rows\n");
+        int numb;
+
+        Console.WriteLine("Enter a digit: ");
+        numb = Convert.ToInt32(Console.ReadLine());
+
+
+        Console.Write(numb);
+        Console.Write(" ");
+        Console.Write(numb);
+        Console.Write(" ");
+        Console.Write(numb);
+        Console.Write(" ");
+        Console.Write(numb);
+        Console.WriteLine();
+
+        Console.Write(numb);
+        Console.Write(numb);
+        Console.Write(numb);
+        Console.WriteLine(numb);
+        Console.WriteLine();
+
+
+        Console.WriteLine("{0} {0} {0} {0}", numb);
+        Console.WriteLine("{0}{0}{0}{0}", numb);
+
+        //8.print the number in pattern
+        Console.WriteLine("\n8.number in pattern\n");
+        int x;
+
+        Console.Write("Enter a number: ");
+        x = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("{0}{0}{0}", x);
+        Console.WriteLine("{0} {0}", x);
+        Console.WriteLine("{0} {0}", x);
+        Console.WriteLine("{0} {0}", x);
+        Console.WriteLine("{0}{0}{0}", x);
+
+        //9.celsius to fahrenheat & kelvin
+
+        Console.WriteLine("\n9.celsius to fahrenheat & kelvin\n");
+        Console.Write("Enter temperature in Celsius : ");
+        double celsius = Convert.ToDouble(Console.ReadLine());
+        double fahrenheit = ((celsius * 9) / 5) + 32;
+        Console.WriteLine("fahrenheit  : " + fahrenheit);
+        double kelvin = (celsius + 273);
+        Console.WriteLine("kelvin : " + kelvin);
+
+        //10.true or false
+        Console.WriteLine("\n10.True or False\n");
+        Console.WriteLine("\nInput first integer:");
+        int x1 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Input second integer:");
+        int y1 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Check if one is negative and one is positive:");
+        Console.WriteLine((x1 < 0 && y1 > 0) || (x1 > 0 && y1 < 0));
+
+        //11.true or false
+
+        Console.WriteLine("\n11.True or False\n");
+        Console.WriteLine("\nInput first integer:");
+        int x2 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Input second integer:");
+        int y2 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Check if two is positive:");
+        Console.WriteLine(x2 > 0 && y2 > 0);
+
+        //12.NullorEmpty
+        //13.m<-->km
+         public static double cMtK(double meters)
+    {
+        return meters / 1000;
+    }
+ 
+    public static double cKtM(double kilometers)
+    {
+        return kilometers * 1000;
+    }
+        //14. already there
+        //15.usd to inr
+        Console.WriteLine("usd -> inr\n");
+        double usd = 0;
+        double inr = 0;
+        double value = 0;
+
+        Console.Write("Enter amount in USD: ");
+        usd = double.Parse(Console.ReadLine());
+
+        Console.Write("Enter the USD value :");
+        value = double.Parse(Console.ReadLine());
+
+        inr = usd * value;
+        Console.WriteLine("USD " + usd + "-> INR " + inr);
+
+    }
+}
+
+
+
+    
+    
