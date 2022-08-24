@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\22nd aug\bin\Debug\net6.0\22nd aug.exe
+C:\Users\Mohan g p\C#\22nd aug\bin\Debug\net6.0\22nd aug.deps.json
+C:\Users\Mohan g p\C#\22nd aug\bin\Debug\net6.0\22nd aug.runtimeconfig.json
+C:\Users\Mohan g p\C#\22nd aug\bin\Debug\net6.0\22nd aug.dll
+C:\Users\Mohan g p\C#\22nd aug\bin\Debug\net6.0\22nd aug.pdb
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.dll
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\refint\22nd aug.dll
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.pdb
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\22nd aug.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\22nd aug\obj\Debug\net6.0\ref\22nd aug.dll
