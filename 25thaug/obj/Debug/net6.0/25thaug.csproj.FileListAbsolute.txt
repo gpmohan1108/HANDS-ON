@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\25thaug\bin\Debug\net6.0\25thaug.exe
+C:\Users\Mohan g p\C#\25thaug\bin\Debug\net6.0\25thaug.deps.json
+C:\Users\Mohan g p\C#\25thaug\bin\Debug\net6.0\25thaug.runtimeconfig.json
+C:\Users\Mohan g p\C#\25thaug\bin\Debug\net6.0\25thaug.dll
+C:\Users\Mohan g p\C#\25thaug\bin\Debug\net6.0\25thaug.pdb
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.dll
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\refint\25thaug.dll
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.pdb
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\25thaug.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\25thaug\obj\Debug\net6.0\ref\25thaug.dll
