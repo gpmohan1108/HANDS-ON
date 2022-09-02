@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\29th_aug\bin\Debug\net6.0\29th_aug.exe
+C:\Users\Mohan g p\C#\29th_aug\bin\Debug\net6.0\29th_aug.deps.json
+C:\Users\Mohan g p\C#\29th_aug\bin\Debug\net6.0\29th_aug.runtimeconfig.json
+C:\Users\Mohan g p\C#\29th_aug\bin\Debug\net6.0\29th_aug.dll
+C:\Users\Mohan g p\C#\29th_aug\bin\Debug\net6.0\29th_aug.pdb
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.dll
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\refint\29th_aug.dll
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.pdb
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\29th_aug.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\29th_aug\obj\Debug\net6.0\ref\29th_aug.dll
